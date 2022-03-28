@@ -1,6 +1,6 @@
 from sec_api import ExtractorApi, QueryApi
 
-api_key = '3b3dec900e3dc17fff9cf867cfb145c9d3b8040544b33f6108ae960e5233c829'
+api_key = ''
 
 class DataScraper:
     def __init__(self):
