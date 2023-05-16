@@ -1,4 +1,4 @@
-## FINA4350 Midterm Project - Christy Wong Ka Hei 
+## FINA4350 Midterm Project - Clustering Company Descriptions using K-means Clustering
 
 ### Introduction
 A comparable company analysis (CCA) is used by financial analysts to evaluate the value of a company by comparing its metrics against that of other businesses in the same industry of similar size.<sup>([source](https://www.investopedia.com/terms/c/comparable-company-analysis-cca.asp ))</sup>. While it might be easier to find similar companies for large, well-known companies (ie. Google, Microsoft), finding similar companies for smaller, less well-known companies could prove to be challenging. With an unsupervised learning method like K-means clustering, it is possible to process large amounts of company descriptions and identify groups of similar companies for the purpose of CCA. In this project, I will try to cluster similar listed companies based on their company description in their Item 1 (Business) section in their Form 10-K filing.
